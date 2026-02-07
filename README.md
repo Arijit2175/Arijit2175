@@ -3,7 +3,7 @@ I am a third-year B.Tech student.<br>I mainly work on hobby projects and learn n
 You can check my [portfolio](https://personal-portfolio-ten-theta-63.vercel.app/) over here.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Oreojit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arijitkarmakar2175) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MorningNecessary) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32217886) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arijitkarmakar2175@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,7 +14,7 @@ You can check my [portfolio](https://personal-portfolio-ten-theta-63.vercel.app/
 ![](https://nirzak-streak-stats.vercel.app/?user=Arijit2175&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit2175&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arijit2175&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Arijit2175&icon=0&color=0)](https://visitcount.itsvg.in)
